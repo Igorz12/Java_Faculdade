@@ -1,4 +1,4 @@
-package lista_01;
+package br.com.igor.lista01;
 import java.util.Scanner;
 
 public class Exercicio_01 {

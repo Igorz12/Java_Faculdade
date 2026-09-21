@@ -31,7 +31,7 @@ Este projeto tem como objetivo praticar:
 
 ```text
 src/
-└── lista_01/
+└── br.com.igor.lista01/
     ├── Exercicio_01.java
     ├── Exercicio_02.java
     ├── Exercicio_03.java
